@@ -2,12 +2,19 @@
 A responsive and modern website built for a garment label and sticker business. The site showcases services like Printed Labels, Woven Labels, Barcode Stickers, and Heat Transfer Stickers. It features a clean layout, reusable components (navbar and footer), and optimized CSS structure using Bootstrap 5.
 
 
+
 ✨ Features
+
     🔹 Responsive design using Bootstrap 5
+    
     🔹 Modular file structure (shared components and styles)
+    
     🔹 Reusable navbar and footer across all pages
+    
     🔹 Product pages with sidebar navigation
+    
     🔹 Clean and SEO-friendly HTML/CSS
+    
     🔹 Scroll and layout animations (optional with JS)
 
 
