@@ -1,0 +1,42 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.banner {
+  background-color: #6c2bd9;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.list-group-item {
+  border: none;
+  padding: 15px 20px;
+  font-weight: 500;
+}
+
+.list-group-item.active {
+  background-color: #6c2bd9 !important;
+  color: white !important;
+  border-radius: 8px;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.quote-box {
+  background-color: #f5f2fb;
+  border-left: 4px solid #6c2bd9;
+  font-style: italic;
+}
+
+.footer {
+  background-color: #1a1a1a;
+}
+
+.footer h6, .footer h5 {
+  margin-bottom: 10px;
+}

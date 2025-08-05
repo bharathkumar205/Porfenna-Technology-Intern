@@ -1,0 +1,28 @@
+/* Product Page Specific Styles */
+img.img-fluid.rounded {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.list-group {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.list-group-item {
+  border: none;
+  padding: 15px 20px;
+  font-weight: 500;
+}
+
+.list-group-item.active {
+  background-color: #6c2bd9;
+  color: white;
+  border-radius: 8px;
+}
+
+.quote-box {
+  background-color: #f5f2fb;
+  border-left: 4px solid #6c2bd9;
+  font-style: italic;
+}

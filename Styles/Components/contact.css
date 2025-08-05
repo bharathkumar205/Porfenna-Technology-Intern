@@ -1,0 +1,17 @@
+
+.contact-form input,
+.contact-form textarea {
+  border-radius: 6px;
+  padding: 12px;
+  border: 1px solid #ccc;
+}
+
+.contact-form .btn-primary {
+  background-color: #6c2bd9;
+  border: none;
+}
+
+.contact-info {
+  background: #f5f2fb;
+  border-radius: 15px;
+}
